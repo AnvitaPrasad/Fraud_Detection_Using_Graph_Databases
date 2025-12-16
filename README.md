@@ -84,5 +84,3 @@ fpg/
 ## Author
 
 **Anvita Prasad**
-
-Original implementation based on research project CSE 573 Spring 2020 Group 12
