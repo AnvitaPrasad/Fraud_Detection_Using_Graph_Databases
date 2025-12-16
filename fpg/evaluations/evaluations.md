@@ -72,11 +72,11 @@ accounted for some information gain which helps the classification model.
 * Also, in some cases ground truth can be acquired only after few months of investigation. We cannot wait that long to evaluate our model in the production scenario.
 * We observed that `~15` clusters should give us maximum gain in information. 
 
-    [![elbow-curve](https://github.com/PratikBarhate/fpg/blob/master/code/notebooks/kmeans_elbow.jpg)]
+    [![elbow-curve](https://github.com/AnvitaPrasad/Fraud_Detection_Using_Graph_Databases/blob/main/fpg/code/notebooks/kmeans_elbow.jpg)]
 
 * As seen from the below result of K-Means clustering for `k=15`. The `two` clusters at the top contain all the fraudulent transactions.
  
-    [![kmeans-15](https://github.com/PratikBarhate/fpg/blob/master/code/notebooks/kmeans_15.jpg)]
+    [![kmeans-15](https://github.com/AnvitaPrasad/Fraud_Detection_Using_Graph_Databases/blob/main/fpg/code/notebooks/kmeans_15.jpg)]
 
 * Only `1.42%` valid transactions out of the total data fell into one of these 2 clusters
 
